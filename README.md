@@ -1,5 +1,4 @@
 # Superstore-Sales-Power-BI-Project
-This is my first Power BI Project
 # This is my first Power BI Project
 
 ## 1. Project Overview
