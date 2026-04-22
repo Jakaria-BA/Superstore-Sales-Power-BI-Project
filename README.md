@@ -29,3 +29,15 @@ Developed an interactive Power BI dashboard to transform raw data into meaningfu
 - 🛍️ Category and product-level analysis
 - 🚚 Delivery performance monitoring
 - 🎛️ Interactive slicers and filters for better exploration
+## 7. Skills Demonstrated
+- 🗄️ SQL querying
+- 📊 Power BI dashboard development
+- 🧠 Data analysis
+- 📈 Data visualization
+- 🔧 Data cleaning and transformation
+- 📌 KPI reporting
+## 8. What I Learned
+- Learned how to connect and transform raw data in Power BI
+- Improved my understanding of dashboard design and layout
+- Practiced turning business requirements into visual insights
+- Strengthened my skills in SQL and reporting
