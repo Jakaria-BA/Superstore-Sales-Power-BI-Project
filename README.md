@@ -2,10 +2,15 @@
 # This is my first Power BI Project
 
 ## 1. Project Overview
-## Project Overview
+
 Developed an interactive **Power BI dashboard** to transform raw data into meaningful business insights. The project focuses on KPI tracking, trend analysis, and data visualization to support smarter and faster decision-making.
 
 ![Superstore Sales Dashboard](https://raw.githubusercontent.com/Jakaria-BA/Superstore-Sales-Power-BI-Project/main/image.png)
+
+## Sales Forecasting
+This visualization highlights forecasting insights created in Power BI to support future planning, identify sales trends, and improve business decision-making.
+
+![Sales Forecasting](https://raw.githubusercontent.com/Jakaria-BA/Superstore-Sales-Power-BI-Project/main/forecasting.png)
 ## 2. Business Problem
 - 📉 Businesses often face challenges in understanding raw data quickly  
 - 📊 Key performance indicators are not always available in one clear view  
