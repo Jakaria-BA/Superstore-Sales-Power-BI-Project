@@ -41,3 +41,6 @@ Developed an interactive Power BI dashboard to transform raw data into meaningfu
 - Improved my understanding of dashboard design and layout
 - Practiced turning business requirements into visual insights
 - Strengthened my skills in SQL and reporting
+## 9. Data Source
+- 📂 Dataset Name: **Superstore Sales**
+- 🌐 Source: **Kaggle**
